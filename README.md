@@ -6,7 +6,7 @@ An extensible calculator desktop application
 
 Use maven to build and install it.
 
-> [See mvn install](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html#running-maven-tools)
+> [See mvn package or mvn install](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html#running-maven-tools)
 
 ## How to add functors
 
